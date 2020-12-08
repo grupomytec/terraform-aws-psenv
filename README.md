@@ -36,3 +36,9 @@ environment_variables = [{"name":"FOO","valueFrom":"arn:aws:ssm:us-east-1:999999
 
 - Linux (não funciona com Windows)
 - AWS CLI
+
+## TODO
+
+- [ ] Traduzir documentação para inglês
+- [ ] Versão para Windows
+ 
