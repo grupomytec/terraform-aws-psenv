@@ -31,3 +31,8 @@ environment_variables = [{"name":"FOO","valueFrom":"arn:aws:ssm:us-east-1:999999
   - **Tipo:** `bool`
   - **Padrão:** `true`
   - **Descrição:** Informa se deve usar `valueFrom` (com o ARN), caso contrário retorna diretamente o valor.
+
+## Requisitos
+
+- Linux (não funciona com Windows)
+- AWS CLI
