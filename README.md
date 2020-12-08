@@ -1,6 +1,6 @@
 # terraform-aws-psenv
 
-> Módulo do Terraform para extrair dados do Parameter Store na sintaxe JSON de variáveis de ambientes das task definitions.
+> Módulo do Terraform para extrair dados do Parameter Store na sintaxe JSON de variáveis de ambientes para task definitions.
 
 ## Uso
 
@@ -41,4 +41,3 @@ environment_variables = [{"name":"FOO","valueFrom":"arn:aws:ssm:us-east-1:999999
 
 - [ ] Traduzir documentação para inglês
 - [ ] Versão para Windows
- 
