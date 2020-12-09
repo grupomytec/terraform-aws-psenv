@@ -6,7 +6,7 @@
 
 [Terraform Provider for AWS](https://github.com/hashicorp/terraform-provider-aws) does not offers a data source to get values from Parameter Store by path (using [*GetParametersByPath API*](https://docs.aws.amazon.com/systems-manager/latest/APIReference/API_GetParametersByPath.html)) and we need to get those values to configure our task definitions.
 
-*See this Pull Request: [terraform-provider-aws#9615)](https://github.com/hashicorp/terraform-provider-aws/pull/9615).*
+*See this Pull Request: [terraform-provider-aws#9615](https://github.com/hashicorp/terraform-provider-aws/pull/9615).*
 
 ## Usage
 
